@@ -1,0 +1,10 @@
+map K previousTab
+map J nextTab
+map D scrollPageDown
+map U scrollPageUp
+map d removeTab
+map u restoreTab
+unmap t
+map th goBack
+map tl goForward
+map T createTab
